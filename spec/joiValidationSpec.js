@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 import strategy from '../src/joiValidationStrategy';
-import Joi from 'joi';
+import Joi from 'joi-browser';
 
 describe('Joi Validator', () => {
   it('ensure exports function', () => {

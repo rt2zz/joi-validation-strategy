@@ -1,4 +1,4 @@
-import Joi from 'joi';
+import Joi from 'joi-browser';
 import set from 'lodash.set';
 import get from 'lodash.get';
 import isEmpty from 'lodash.isempty';
